@@ -39,7 +39,7 @@ In this project, we investigate the performance of various Text-To-SQL agents on
 
 ### DIN-SQL
 
-DIN-SQL is a state-of-the-art Text-To-SQL agent known for its ability to generate accurate SQL queries from natural language inputs. We have implemented and evaluated DIN-SQL on the BIRD-Bench dataset.
+[DIN-SQL](https://github.com/MohammadrezaPourreza/Few-shot-NL2SQL-with-prompting) is a state-of-the-art Text-To-SQL agent known for its ability to generate accurate SQL queries from natural language inputs. We have implemented and evaluated DIN-SQL on the BIRD-Bench dataset.
 
 ### Few-Shot Learning
 
