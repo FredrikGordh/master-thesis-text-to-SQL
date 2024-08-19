@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and experiments related to our, Fredrik Gordh & Niklas Wretblad's, master's thesis, where we explore and evaluate different Text-To-SQL agents, including DIN-SQL, few-shot, and zero-shot models. The evaluation is conducted using the BIRD-Bench dataset, with a particular focus on the financial domain.
+This repository contains the code and experiments related to our, Fredrik Gordh & [Niklas Wretblad's](https://github.com/niklaswretblad), master's thesis, where we explore and evaluate different Text-To-SQL agents, including DIN-SQL, few-shot, and zero-shot models. The evaluation is conducted using the BIRD-Bench dataset, with a particular focus on the financial domain.
 
 The master's thesis lead to a research paper published and presented in ACL.
 
