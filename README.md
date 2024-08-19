@@ -4,6 +4,11 @@
 
 This repository contains the code and experiments related to our master's thesis, where we explore and evaluate different Text-To-SQL agents, including DIN-SQL, few-shot, and zero-shot models. The evaluation is conducted using the BIRD-Bench dataset, with a particular focus on the financial domain.
 
+The master's thesis lead to a research paper published and presented in ACL.
+
+- **Research Paper:** [ACL 2024 Short Paper](https://aclanthology.org/2024.acl-short.34/)
+- **Master's Thesis:** [Linköping University Thesis](https://liu.diva-portal.org/smash/get/diva2:1833681/FULLTEXT02.pdf)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
