@@ -33,7 +33,7 @@ In this project, we investigate the performance of various Text-To-SQL agents on
 
 ### BIRD-Bench
 
-[BIRD-Bench](https://example.com) is a comprehensive benchmark dataset for evaluating Text-To-SQL systems across various domains. The dataset includes several subdomains, with the financial domain being a key area of interest for our research.
+[BIRD-Bench](https://bird-bench.github.io/) is a comprehensive benchmark dataset for evaluating Text-To-SQL systems across various domains. The dataset includes several subdomains, with the financial domain being a key area of interest for our research.
 
 ## Models
 
