@@ -60,5 +60,5 @@ We evaluated all the models on the entire BIRD-Bench dataset, analyzing their pe
 Given the importance of the financial sector, we conducted a detailed evaluation of the models on the financial domain subset of BIRD-Bench.
 
 ## Results
-
+To view our results of the experiments, please see our master's thesis paper or the published research paper.
 The results of our evaluations
